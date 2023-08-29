@@ -1,4 +1,14 @@
-.foto{
+/* .foto{
     height: 190px;
     object-fit: cover;
+} */
+
+.jumbotron{
+    padding-top: 5rem;
+    background-color: #e2edff;
+}
+
+#projects{
+    background-color: #e2edff;
+
 }
